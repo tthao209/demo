@@ -1,0 +1,271 @@
+* {
+  font-family: "Lato";
+  font-style: normal;
+}
+html {
+  width: 1440px;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-weight: normal;
+}
+.header,
+.japan {
+  position: relative;
+}
+.benefits,
+.japan {
+  position: absolute;
+}
+.header {
+  height: 962px;
+  background-image: url(/Image/Image.png);
+  align-items: center;
+  justify-content: space-between;
+}
+.one {
+  display: flex;
+}
+.logo {
+  color: #ffffff;
+  margin-left: 195px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+}
+.nav a:nth-child(n + 2) {
+  margin-left: 82px;
+}
+.nav a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+}
+.menu {
+  display: flex;
+  align-items: center;
+  margin-left: 514px;
+  margin-top: 20px;
+}
+.introduce {
+}
+.place_japan {
+  width: 619px;
+  height: 121px;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 60px;
+  color: #ffffff;
+  margin-left: 191px;
+  margin-top: 100px;
+}
+.jump {
+  width: 546px;
+  height: 72px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-top: 22px;
+  margin-left: 192px;
+}
+.question {
+  color: #ffffff;
+  margin-left: 192px;
+}
+.btn_search {
+  width: 180px;
+  height: 48px;
+  background: #1b7dff;
+  margin-left: 88px;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+}
+.benefits {
+  background-color: floralwhite;
+  width: 1262px;
+  height: 655px;
+  margin-left: 80px;
+  margin-top: -350px;
+  padding-bottom: 200px;
+}
+.japan {
+  display: flex;
+  margin-bottom: -350px;
+}
+.title_benefits {
+  height: 42px;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 42px;
+  color: #102746;
+  margin-left: 99px;
+  margin-top: 93px;
+  padding-top: 100px;
+}
+.hello {
+  margin-left: 100px;
+}
+.image-temple {
+  margin-top: 150px;
+}
+.welcome {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: #000000;
+}
+.information_jump {
+  width: 300px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+}
+.arrow {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #006dfe;
+}
+.picture {
+  margin-left: 15px;
+}
+.information {
+  height: 5736px;
+  background-color: while;
+  margin-left: 80px;
+}
+.information h2 {
+  padding-top: 500px;
+  font-weight: normal;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 42px;
+}
+.head {
+  display: flex;
+}
+.container .one {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.container .two {
+  margin-top: -110px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.text {
+  color: red;
+  position: relative;
+  bottom: 120px;
+  margin-left: 27px;
+  font-size: 40px;
+}
+.tottori {
+  display: flex;
+  width: 1262px;
+  margin-top: 50px;
+}
+.prefecture {
+  padding: 50px;
+  margin-left: 50px;
+}
+.featured {
+  padding: 50px;
+  margin-right: 50px;
+}
+.title_tottori {
+  width: 360px;
+  height: 40px;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 40px;
+  color: #2f4f4f;
+}
+.event {
+  width: 519px;
+  height: 72px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 85px;
+}
+.pi_shape {
+  width: 50px;
+  margin-top: 58px;
+  margin-left: 26px;
+}
+
+.today_place {
+  display: flex;
+}
+.title_today {
+  height: 42px;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 42px;
+  color: #102746;
+}
+
+.text_saitama {
+  color: wheat;
+  position: relative;
+  margin-left: 27px;
+  bottom: 300px;
+  font-size: 20px;
+}
+.meaning {
+  width: 391px;
+  height: 92px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 62px;
+  color: rebeccapurple;
+}
+.btn_see {
+  width: 130ppx;
+  height: 60px;
+  background: #006dfe;
+}
+.nigata {
+  margin-left: 50px;
+  margin-top: 110px;
+}
+.uneno {
+  margin-left: 50px;
+  margin-top: 110px;
+}
+.video {
+  margin-top: 80px;
+}
+.poster {
+  background-color: #0e1d28;
+  display: flex;
+  color: white;
+  width: 1442px;
+  margin-top: -15px;
+}
+.poster h1 {
+  font-weight: bolder;
+  font-style: oblique;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+.text-end {
+  display: flex;
+  margin-left: 200px;
+}
+.end {
+  margin-left: 100px;
+  padding-bottom: 100px;
+  margin-top: 100px;
+}
